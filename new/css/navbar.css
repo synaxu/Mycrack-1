@@ -5,8 +5,8 @@
     position: relative;
     justify-content: space-between;
     align-items: center;
-    background-color: white;
-    color: #24252a;
+    background-color: #24252a;
+    color: whitesmoke;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -32,7 +32,7 @@
 .navbar-links li a {
     display: block;
     text-decoration: none;
-    color: #24252a;
+    color: whitesmoke;
     padding: 1rem;
 }
 
@@ -54,7 +54,7 @@
 .toggle-button .bar {
     height: 3px;
     width: 100%;
-    background-color: #24252a;
+    background-color: whitesmoke;
     border-radius: 10px;
 }
 
