@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+body {
+    background-image: url('../images/background.png');
+}
+div.overgame {
+    padding: 15px;
+    background-color: #24252A;
+    margin-left: 22.5%;
+    margin-right: 22.5%;
+    border-radius: 50px;
+    box-sizing: content-box;
+    border: solid rgba(8, 8, 8, 0.2) 10px;
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+div.overgame h1 {
+    color: #edf0f1;
+    font-family: 'Kanit', sans-serif;
+    text-align: center
+    
+}
+div.overgame img {
+
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+
+div.games {
+    display: flex;
+        flex-wrap: wrap;
+
+}
+
+div.doom img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.doom:hover img{
+    margin-top: -20px;
+}
+div.undertale img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.undertale:hover img{
+    margin-top: -20px;
+}
+div.undertale1 img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.undertale1:hover img{
+    margin-top: -20px;
+}
+div.undertale2 img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.undertale2:hover img{
+    margin-top: -20px;
+}
+div.undertale3 img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.undertale3:hover img{
+    margin-top: -20px;
+}
+div.undertale4 img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.undertale4:hover img{
+    margin-top: -20px;
+}
+div.undertale5 img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.undertale5:hover img{
+    margin-top: -20px;
+}
+div.undertale6 img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.undertale6:hover img{
+    margin-top: -20px;
+}
+div.undertale7 img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.undertale7:hover img{
+    margin-top: -20px;
+}
+div.undertale8 img{
+    border-radius: 25px;
+    padding: 10px;
+}
+div.undertale8:hover img{
+    margin-top: -20px;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252A;
+}
+
+li, a, button {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #edf0f1;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.logo {
+    cursor: pointer;
+    width: 120px;
+}
+
+.nav_liens {
+    list-style: none;
+}
+
+.nav_liens li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_liens li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav_liens li a:hover {
+    color: #0088a9
+}
+
+button {
+    padding: 9px 25px;
+    background-color: rgba(0,136,169,1);
+    border: none;
+    border-radius: 50px;
+    cursor: yes;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover{
+    background-color: rgba(0,136,169,0.8);
+}
+
+
+/* 434860 */
+

@@ -1,0 +1,65 @@
+
+div.crack_window img{
+    margin-top: 140px;
+    width: 600px;
+    background-color: rgba(8, 8, 8, 0.2);
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    position: relative;
+    top: -80px;
+
+        
+}
+
+
+div.crack_window {
+    color: #edf0f1;
+    text-align: center;
+
+}
+
+div.crack_window {
+
+
+    background-color: #24252A;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 50px;
+    box-sizing: content-box;
+    border: solid rgba(8, 8, 8, 0.2) 10px;
+    margin-top: 5%;
+
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+div.crack_window a {
+    padding: 50;
+}
+
+div.crack_window p {
+    margin-left: 250px;
+    margin-right: 250px;
+    font-family: "Kanit", sans-serif;
+    color: #edf0f1;
+    text-decoration: none;
+    background-color: #24252A;
+}
+    
+
+div.crack_window h1 {
+    margin-left: 250px;
+    margin-right: 250px;
+    font-family: "Kanit", sans-serif;
+    color: #edf0f1;
+    text-decoration: none;
+    background-color: #24252A;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+
