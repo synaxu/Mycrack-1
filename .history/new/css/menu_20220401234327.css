@@ -3,8 +3,8 @@ body {
 }
 div.undertale img{
     border-radius: 25px;
-    padding: 10px; 
-    display: block;
+    padding: 10px;
+    top: 10%;
 }
 div.undertale:hover img{
     margin-top: -20px;

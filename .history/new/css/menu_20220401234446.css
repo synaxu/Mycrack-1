@@ -4,7 +4,6 @@ body {
 div.undertale img{
     border-radius: 25px;
     padding: 10px; 
-    display: block;
 }
 div.undertale:hover img{
     margin-top: -20px;
